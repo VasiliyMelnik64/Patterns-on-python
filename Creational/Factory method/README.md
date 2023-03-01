@@ -6,4 +6,4 @@
 - allow users to extend parts of an existing framework or library.
 - saving system resources, reusing already created objects, instead of generating new ones.
 
-#### A factory method can be defined by creating methods that return product objects via abstract types or interfaces. This allows to override the types of generated products in subclasses.
+### A factory method can be defined by creating methods that return product objects via abstract types or interfaces. This allows to override the types of generated products in subclasses.
